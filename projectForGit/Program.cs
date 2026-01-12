@@ -54,7 +54,7 @@
             else
             {
                 Console.WriteLine("Ошибка. Вы ввели неверный знак.");
-                Console.WriteLine("Для выхода нажмите любую клавишу...");
+                Console.WriteLine("Для выхоdsaда нажмите любую клавишу...");
                 Console.ReadKey();
 
             }
