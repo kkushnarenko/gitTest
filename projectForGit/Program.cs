@@ -39,7 +39,7 @@
             {
                 if (two == 0)
                 {
-                    Console.WriteLine("Ошибка. Делитель не может быть равным нулю.");
+                    Console.WriteLine("Ошибка. Делить на 0 нельзя.");
                     Console.WriteLine("Для выхода нажмите любую клавишу...");
                     Console.ReadKey();
                 }
